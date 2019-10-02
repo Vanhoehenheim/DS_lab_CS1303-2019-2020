@@ -3,5 +3,26 @@
 * Add programs to this repository to increase your _Hacktoberfest Pull Requests :)_
 
 ## IMPORTANT
-**Each program must be properly _indented_ and _commented._**
-**Avoid uploading duplicate programs.**
+* **Each program must be properly _indented_ and _commented._**
+* **Do update the contents list after uploading your program.**
+* **Avoid uploading duplicate programs.**
+
+
+### Contents:
+* ***Arrays
+
+
+
+* ***Linked List
+
+
+
+* ***Stack
+
+
+
+* ***Queue
+
+
+
+* ***Tree

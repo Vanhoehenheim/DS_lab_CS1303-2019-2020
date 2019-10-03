@@ -13,7 +13,7 @@
 
 
 
-* ***Linked List***
+* ***Linked List.***
   1. [Simple Linked List](https://github.com/Vanhoehenheim/DS_lab-CS1303-2019-20/blob/master/simple_linked_list.c)
 
 

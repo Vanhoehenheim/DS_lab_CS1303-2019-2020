@@ -10,8 +10,8 @@
 
 ### Contents:
 * ***Arrays***
-  1. [linear search in an array](https://github.com/pratyakshrao/DS_lab-CS1303-2019-20/blob/master/linear_search_in_a_given%20array.c)
-  2. [insertion in an array](https://github.com/pratyakshrao/DS_lab-CS1303-2019-20/blob/master/insertion_in_array.c)
+  1. [Linear Search in a Static Array](https://github.com/pratyakshrao/DS_lab-CS1303-2019-20/blob/master/linear_search_in_a_given%20array.c)
+  2. [Insertion in a Static Array](https://github.com/pratyakshrao/DS_lab-CS1303-2019-20/blob/master/insertion_in_array.c)
 
 
 * ***Linked List***

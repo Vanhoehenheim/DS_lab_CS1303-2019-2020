@@ -23,6 +23,8 @@
 
 
 * ***Queue***
+  1. [Simple/Fixed Queue using Array](https://github.com/Vanhoehenheim/DS_lab-CS1303-2019-20/blob/Queue/simple_queue_array.c)
+
 
 
 

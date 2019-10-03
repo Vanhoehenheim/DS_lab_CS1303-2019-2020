@@ -25,6 +25,7 @@
 
 * ***Queue***
   1. [Simple/Fixed Queue using Array](https://github.com/Vanhoehenheim/DS_lab-CS1303-2019-20/blob/Queue/simple_queue_array.c)
+  2. [Circular Queue using Array](https://github.com/sj-hellfire/DS_lab_CS1303-2019-2020/blob/master/circular_queue_array.c)
 
 
 

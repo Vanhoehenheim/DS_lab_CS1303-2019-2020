@@ -1,12 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Creating structure of node of tree
 struct node
 {
     int val;
     struct node *right, *left;
 };
 
+// Inserting a node using recursion by checking the parent node
+// Create root if tree does not exist
 void insert(struct node **root, struct node *cur)
 {
     if(!(*root))
@@ -20,6 +23,8 @@ void insert(struct node **root, struct node *cur)
         insert(&(*root)->right, cur);
 }
 
+// Preorder traversal using recursion
+// First we traverse towards left, then towards right for root parent node and its successors
 void Preorder(struct node *root)
 {
     printf("%d ",root->val);
@@ -28,6 +33,9 @@ void Preorder(struct node *root)
     if(root->right)
         Preorder(root->right);
 }
+
+// Inorder traversal using recursion
+// First we traverse towards left, then towards right for any parent node
 void Inorder(struct node *root)
 {
     if(root->left)
@@ -37,6 +45,8 @@ void Inorder(struct node *root)
         Inorder(root->right);
 }
 
+// Postorder traversal using recursion
+// First we traverse towards right, then towards left for root parent node and its successors
 void Postorder(struct node *root)
 {
     if(root->left)
@@ -55,6 +65,8 @@ int main()
     root = NULL;
     do
     {
+        // Using switch case to create menu
+        // Keep on running program until user specifies option 5
         printf("\n\n\t1. Insert");
         printf("\n\t2. Postorder");
         printf("\n\t3. Inorder");
@@ -64,7 +76,7 @@ int main()
         scanf("%d",&ch);
         switch(ch)
         {
-            case 1:
+            case 1: // Creating node using dynamic memory allocation
                     curr = (struct node *)malloc(sizeof(struct node));
                     curr->left = curr->right = NULL;
                     printf("\n\tEnter a No ");
@@ -83,7 +95,8 @@ int main()
                     printf("\n\tPostrder Traversal : ");
                     Postorder(root);
                     break;
-            case 5: exit(0);
+            case 5: // Terminate the program
+                    exit(0);
             default:
                     printf("\n\tInvalid Option!");
         }

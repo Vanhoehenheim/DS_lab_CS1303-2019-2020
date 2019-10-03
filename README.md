@@ -9,7 +9,7 @@
 
 
 ### Contents:
-* ***Arrays***
+* ***Arrays.***
 
 
 

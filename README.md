@@ -20,7 +20,7 @@
 
 
 * ***Stack***
-
+  1. [Simple Stack](https://github.com/salilbc/DS_lab_CS1303-2019-2020/blob/master/Stack.c)
 
 
 * ***Queue***

@@ -5,7 +5,7 @@ struct node
     int data;
     struct node *next;
 };
-struct node *head = NULL;
+struct node *head = NULL;                            //Head now points to NULL and will remain so as long as it's an empty Linked List. 
 void create()                                        //Function to create a linked list, taking number of nodes as input.
 {
 

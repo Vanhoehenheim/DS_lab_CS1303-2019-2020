@@ -14,11 +14,12 @@
   2. [Binary Search in a Static Array](https://github.com/Vanhoehenheim/DS_lab_CS1303-2019-2020/blob/master/binary_search.c)
   3. [Insertion in a Static Array](https://github.com/pratyakshrao/DS_lab-CS1303-2019-20/blob/master/insertion_in_array.c)
   
-  *  ***Sorting Algoriths***
-     1. [Bubble sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/bubble_sort.c)
-     2. [Selection sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/selection_sort.c)
-     3. [Quick sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/quick_sort.c)
-     4. [Merge sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/merge_sort.c)
+  
+*  ***Sorting Algoriths***
+  1. [Bubble sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/bubble_sort.c)
+  2. [Selection sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/selection_sort.c)
+  3. [Quick sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/quick_sort.c)
+  4. [Merge sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/merge_sort.c)
 
 
 * ***Linked List***

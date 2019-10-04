@@ -16,10 +16,10 @@
   
   
 *  ***Sorting Algoriths***
-   1. [Bubble sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/bubble_sort.c)
-   2. [Selection sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/selection_sort.c)
-   3. [Quick sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/quick_sort.c)
-   4. [Merge sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/merge_sort.c)
+   i. [Bubble sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/bubble_sort.c)
+   ii. [Selection sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/selection_sort.c)
+   iii. [Quick sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/quick_sort.c)
+   iv. [Merge sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/merge_sort.c)
 
 
 * ***Linked List***

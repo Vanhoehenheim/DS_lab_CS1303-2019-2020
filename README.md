@@ -30,3 +30,4 @@
 
 
 * ***Tree***
+  1. [Insertion, Preorder, Postorder & Inorder Traversal in Binary Search Tree](https://github.com/Vanhoehenheim/DS_lab-CS1303-2019-20/blob/master/bst_operations.c)

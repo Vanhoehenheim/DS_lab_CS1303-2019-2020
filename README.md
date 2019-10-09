@@ -19,6 +19,7 @@
    2. [Selection sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/selection_sort.c)
    3. [Quick sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/quick_sort.c)
    4. [Merge sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/merge_sort.c)
+   5. [Heap Sort](https://github.com/Muskan-j/DS_lab_CS1303-2019-2020/blob/master/heap_sort.c)
 
 
 * ***Linked List***

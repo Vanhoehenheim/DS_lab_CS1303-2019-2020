@@ -26,7 +26,7 @@
    2. [binary search]
    3. [exponential search]
    4. [fibonacci search]
-   5.[interpolation search]
+   5. [interpolation search]
 
 
 * ***Linked List***

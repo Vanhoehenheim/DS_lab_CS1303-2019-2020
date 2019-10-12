@@ -24,6 +24,9 @@
 
 * ***Linked List***
   1. [Simple Linked List](https://github.com/Vanhoehenheim/DS_lab-CS1303-2019-20/blob/master/simple_linked_list.c)
+  2. [circular Linked List](https://github.com/kckotcherlakota/DS_lab_CS1303-2019-2020/blob/circularanddouble_updated/cir.c)
+  3.[Double Linked List](https://github.com/kckotcherlakota/DS_lab_CS1303-2019-2020/blob/circularanddouble_updated/doublink.c)
+  
 
 
 

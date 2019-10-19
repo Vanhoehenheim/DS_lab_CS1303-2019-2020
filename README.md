@@ -25,10 +25,9 @@
 * ***Linked List***
   1. [Simple Linked List](https://github.com/Vanhoehenheim/DS_lab-CS1303-2019-20/blob/master/simple_linked_list.c)
   2. [Doubly Linked List](https://github.com/Vanhoehenheim/DS_lab_CS1303-2019-2020/blob/master/doubly_linked_list.c)
-  2. [searching a node's data in Linked List](https://github.com/Vanhoehenheim/DS_lab_CS1303-2019-2020/blob/master/search_linked_list.c)
-
-
-
+  3. [Circular Linked List](https://github.com/kckotcherlakota/DS_lab_CS1303-2019-2020/blob/circularanddouble_updated/cir.c)
+  4. [Searching a node's data in Linked List](https://github.com/Vanhoehenheim/DS_lab_CS1303-2019-2020/blob/master/search_linked_list.c)
+  
 * ***Stack***
   1. [Simple Stack using Structure](https://github.com/salilbc/DS_lab_CS1303-2019-2020/blob/master/Stack.c)
   2. [Stack Implementation using Doubly Linked List](https://github.com/Vanhoehenheim/DS_lab_CS1303-2019-2020/blob/master/doubly-linked-list.c)

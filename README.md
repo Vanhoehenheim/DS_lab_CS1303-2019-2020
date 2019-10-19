@@ -25,7 +25,7 @@
 * ***Linked List***
   1. [Simple Linked List](https://github.com/Vanhoehenheim/DS_lab-CS1303-2019-20/blob/master/simple_linked_list.c)
   2. [searching a node's data in Linked List](https://github.com/Vanhoehenheim/DS_lab_CS1303-2019-2020/blob/master/search_linked_list.c)
-
+  3. [Reversing a linked list](https://github.com/Vanhoehenheim/DS_lab_CS1303-2019-2020/blob/master/Reverse_LinkedList.c)
 
 
 * ***Stack***

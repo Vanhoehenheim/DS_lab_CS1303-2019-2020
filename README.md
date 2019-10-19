@@ -20,13 +20,6 @@
    3. [Quick sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/quick_sort.c)
    4. [Merge sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/merge_sort.c)
    5. [Heap Sort](https://github.com/Muskan-j/DS_lab_CS1303-2019-2020/blob/master/heap_sort.c)
-   
-    ***Search Algoriths***
-   1. [linear search]
-   2. [binary search]
-   3. [exponential search]
-   4. [fibonacci search]
-   5. [interpolation search]
 
 
 * ***Linked List***

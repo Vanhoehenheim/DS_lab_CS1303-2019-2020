@@ -30,6 +30,7 @@
 
 * ***Stack***
   1. [Simple Stack using Structure](https://github.com/salilbc/DS_lab_CS1303-2019-2020/blob/master/Stack.c)
+  2. [Postfix Evaluation using Stack]  (https://github.com/Vanhoehenheim/DS_lab_CS1303-2019-2020/blob/master/postfixEvaluation.c)
 
 
 * ***Queue***

@@ -10,6 +10,7 @@
 ### Contents:
 * ***Recursion***
   1. [Factorial of a number](https://github.com/namangupta1399/DS_lab_CS1303-2019-2020/blob/master/factorial.c)
+  2. [Fibonacci number](https://github.com/namangupta1399/DS_lab_CS1303-2019-2020/blob/master/fibonacci.c)
 
 * ***Arrays***
   1. [Linear Search in a Static Array](https://github.com/pratyakshrao/DS_lab-CS1303-2019-20/blob/master/linear_search_in_a_given%20array.c)

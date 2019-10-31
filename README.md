@@ -46,3 +46,5 @@
 * ***Tree***
   1. [Insertion, Preorder, Postorder & Inorder Traversal in Binary Search Tree](https://github.com/Vanhoehenheim/DS_lab-CS1303-2019-20/blob/master/bst_operations.c)
   2. [Inorder Tree Traversal (tree using linked list)](https://github.com/Vanhoehenheim/DS_lab_CS1303-2019-2020/blob/master/Inorder_Tree_Traversal.c)
+   2. [Red-Black Tree(Insertion, deletion and traversal)](https://github.com/Vanhoehenheim/DS_lab_CS1303-2019-2020/blob/master/Red-Black Tree.c)
+  

@@ -7,12 +7,7 @@
 * **Avoid uploading duplicate programs.**
 
 
-### Contents:
-* ***Arrays***
-  1. [Linear Search in a Static Array](https://github.com/pratyakshrao/DS_lab-CS1303-2019-20/blob/master/linear_search_in_a_given%20array.c)
-  2. [Binary Search in a Static Array](https://github.com/Vanhoehenheim/DS_lab_CS1303-2019-2020/blob/master/binary_search.c)
-  3. [Insertion in a Static Array](https://github.com/pratyakshrao/DS_lab-CS1303-2019-20/blob/master/insertion_in_array.c)
-  
+### Contents: 
   
 *  ***Sorting Algoriths***
    1. [Bubble sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/bubble_sort.c)
@@ -20,6 +15,11 @@
    3. [Quick sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/quick_sort.c)
    4. [Merge sort](https://github.com/amol2512/DS_lab_CS1303-2019-2020/blob/master/merge_sort.c)
    5. [Heap Sort](https://github.com/Muskan-j/DS_lab_CS1303-2019-2020/blob/master/heap_sort.c)
+   
+* ***Arrays***
+  1. [Linear Search in a Static Array](https://github.com/pratyakshrao/DS_lab-CS1303-2019-20/blob/master/linear_search_in_a_given%20array.c)
+  2. [Binary Search in a Static Array](https://github.com/Vanhoehenheim/DS_lab_CS1303-2019-2020/blob/master/binary_search.c)
+  3. [Insertion in a Static Array](https://github.com/pratyakshrao/DS_lab-CS1303-2019-20/blob/master/insertion_in_array.c)
 
 
 * ***Linked List***
